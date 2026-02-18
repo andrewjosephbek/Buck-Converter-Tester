@@ -1,1 +1,1 @@
-PCB and BOM for a 5V Buck converter (SK Consulting internal).
+PCB and BOM for a Bed-of-Nails (pogo pin) tester for [Buck Converter](https://github.com/andrewjosephbek/Buck-Converter).
